@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAzure.App.FileUploader", "src\LearnAzure.App.FileUploader\LearnAzure.App.FileUploader.csproj", "{C49E08CD-E71B-4AF3-9C8E-0A7147947491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAzure.App.ImageViewer", "src\LearnAzure.App.ImageViewer\LearnAzure.App.ImageViewer.csproj", "{7CF98763-414C-4D5C-9F7C-680D853CEF7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAzure.Function.ImageAccess", "src\LearnAzure.Function.ImageAccess\LearnAzure.Function.ImageAccess.csproj", "{C37B8DFA-9A21-4D12-8B4B-8745F1C51E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49E08CD-E71B-4AF3-9C8E-0A7147947491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49E08CD-E71B-4AF3-9C8E-0A7147947491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49E08CD-E71B-4AF3-9C8E-0A7147947491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49E08CD-E71B-4AF3-9C8E-0A7147947491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF98763-414C-4D5C-9F7C-680D853CEF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF98763-414C-4D5C-9F7C-680D853CEF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF98763-414C-4D5C-9F7C-680D853CEF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF98763-414C-4D5C-9F7C-680D853CEF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37B8DFA-9A21-4D12-8B4B-8745F1C51E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37B8DFA-9A21-4D12-8B4B-8745F1C51E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37B8DFA-9A21-4D12-8B4B-8745F1C51E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37B8DFA-9A21-4D12-8B4B-8745F1C51E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
